@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from 'react'
 import { dummyUserData } from '../assets/assets';
 import { Image, X } from 'lucide-react';
